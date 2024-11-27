@@ -1,0 +1,42 @@
+ const products = [
+    {
+      title: "HATS",
+      name: ["Hat 1", "Hat 2", "Hat 3", "Hat 4"],
+      price: [" 20", " 25", " 30", " 35"],
+      imgs: [img1, img2, img3, img4],
+    },
+    {
+      title: "JACKETS",
+      name: ["Jacket 1", "Jacket 2", "Jacket 3", "Jacket 4"],
+      price: [" 50", " 55", " 60", " 65"],
+      imgs: [img5, img6, img7, img8],
+    },
+    {
+      title: "SNICKERS",
+      name: ["Snicker 1", "Snicker 2", "Snicker 3", "Snicker 4"],
+      price: [" 70", " 75", " 80", " 85"],
+      imgs: [img9, img10, img11, img12],
+    },
+    {
+      title: "MEN",
+      name: ["Men Item 1", "Men Item 2", "Men Item 3", "Men Item 4"],
+      price: [" 40", " 45", " 50", " 55"],
+      imgs: [img13, img14, img15, img16],
+    },
+    {
+      title: "WOMEN",
+      name: ["Women Item 1", "Women Item 2", "Women Item 3", "Women Item 4"],
+      price: [" 35", " 40", " 45", " 50"],
+      imgs: [img17, img18, img19, img20],
+    },
+  ];
+
+ 
+
+
+
+
+
+
+
+
